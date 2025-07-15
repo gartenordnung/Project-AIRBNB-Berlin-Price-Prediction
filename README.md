@@ -2,7 +2,7 @@
 
 Run the Create_Dataset.py file. Pass the "detailed_listings.csv" file to it. It will transform the amenities text columns to bools.
 
-# 2. Predict ( use our train_final.csv for this)
+# 2. Predict ( use our train_mini.csv for this)
 
 Pass the file to some Predict_Method file and run it.
 
