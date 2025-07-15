@@ -6,5 +6,5 @@ Run the Create_Dataset.py file. Pass the "detailed_listings.csv" file to it. It 
 
 Pass the file to some Predict_Method file and run it.
 
-# 3. See Results
+# 3. See Results (of full dataset)
 <img width="818" height="461" alt="image" src="https://github.com/user-attachments/assets/d6ae1d17-4508-4efc-ba4a-0fc55ee5edc0" />
